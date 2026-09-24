@@ -7,7 +7,7 @@ The goal was to build a client-server network system that allows:
 - Requesting a list of available images
 - Downloading and displaying images by ID
 
-I achieved a 78 mark** for this practical.
+I achieved a 78 mark for this practical.
 
  Server
 - Runs on port  number
